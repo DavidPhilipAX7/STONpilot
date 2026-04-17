@@ -47,12 +47,10 @@ graph TD
     
     style Protocol fill:#f9f9f9,stroke:#333
     style SDK fill:#ffdf00
+```
 
 
-
-
-
-Roadmap
+##Roadmap
 Phase	Milestone	Status
 Phase 1	On-chain wallet analytics + leaderboard	🔄 In Development
 Phase 2	STON.fi SDK integration + swap routing	🔄 In Development
